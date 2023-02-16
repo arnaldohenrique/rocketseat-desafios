@@ -1,0 +1,11 @@
+# A importância do Sintaxe
+
+* Toda linguagem tem
+* Uma boa comunicação necessita de uma boa sintaxe
+* 82% dos erros para iniciantes na programação
+
+```js
+    console.log("Bem vindos ao Starter")
+```
+
+- Escrever qualquer coisa fora do seu lugar vai ocorrer um erro de sintaxe, levando na maioria das vezes o mal funcionamento do código.
