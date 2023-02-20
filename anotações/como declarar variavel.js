@@ -13,5 +13,13 @@ let age, isHuman
 
 age = 23
 isHuman = true
-
+// multiplos argumentos na função
 console.log(name, age, isHuman)
+
+// escrita de texto + variáveis
+
+//concatenando os valores
+console.log('O ' + name + ' tem ' + age + ' anos.')
+
+// interpolando valores com template literals or template strings
+console.log(`O ${name} tem ${age} anos.`)
