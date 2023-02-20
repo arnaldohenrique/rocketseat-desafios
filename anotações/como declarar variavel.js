@@ -7,3 +7,11 @@ name = "Naldo"
 
 //que tipo de dado foi colocado na variável
 console.log(typeof name)
+
+// agrupamento de declarações
+let age, isHuman
+
+age = 23
+isHuman = true
+
+console.log(name, age, isHuman)
