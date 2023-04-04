@@ -13,3 +13,11 @@ console.log(one == '1') //true
 console.log(one != two) //true
 console.log(one != 1)   //false
 console.log(one != '1') //false
+
+// ===  estritamente igual a 
+console.log(one === '1')    //false
+console.log(one === 1)      //true
+
+// !==  estritamente diferente de
+console.log(two !== '2')    //true
+console.log(two !== 2)      //false
